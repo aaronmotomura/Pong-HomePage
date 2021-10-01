@@ -1,0 +1,124 @@
+html{
+overflow: scroll;    
+text-align: center;
+}
+
+
+
+
+.bar{
+    z-index: 1000;
+position: fixed;
+top:0;
+width:100%;
+    text-align: center;
+    background-color: #E93C00 ;
+    color: black;
+    font-size:1.2em;
+    font-weight:200; 
+}
+table{
+    border: solid black;
+    width:100%;
+}
+td{
+   
+    
+}
+
+img{
+    width: 80%;
+}
+
+.img1{
+    
+}
+
+.Title{
+     position:absolute;
+  font-size: 4em;
+  color:white;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-weight: bold;
+}
+
+
+.img2{
+      position: relative;
+  text-align: center;
+  float: left;
+  width: 50%;
+    padding: 5px;
+    left: 5em;
+  
+}
+.Teams{
+     position:absolute;
+  font-size: 2em;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.leaderboards{
+  position:absolute;
+  font-size: 2em;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+
+.row1{
+   
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.img3{
+     position: relative;
+  text-align: center;
+  float: right;
+  width: 40%;
+  padding: 5px;
+  right:6em;
+  
+}
+
+.img4{
+      position: relative;
+  text-align: center;
+  float: left;
+  width: 50%;
+    padding: 5px;
+    left: 5em; 
+}
+
+.img5{
+    position: relative;
+  text-align: center;
+  float: right;
+  width: 36.5%;
+  padding: 5px;
+  right:6em;
+}
+
+.Roster{
+    position:absolute;
+  font-size: 2em;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+
+
+.events{
+     position:absolute;
+  font-size: 2em;
+  top: 90%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
